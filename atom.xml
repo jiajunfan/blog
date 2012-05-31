@@ -4,7 +4,7 @@
   <title><![CDATA[Jiajun's Blog]]></title>
   <link href="http://jiajunfan.github.com/blog/atom.xml" rel="self"/>
   <link href="http://jiajunfan.github.com/blog/"/>
-  <updated>2012-05-31T22:07:08+08:00</updated>
+  <updated>2012-05-31T22:17:21+08:00</updated>
   <id>http://jiajunfan.github.com/blog/</id>
   <author>
     <name><![CDATA[Jiajun Fan]]></name>
@@ -19,6 +19,22 @@
     <updated>2012-05-31T22:06:00+08:00</updated>
     <id>http://jiajunfan.github.com/blog/blog/2012/05/31/zhong-wen-ce-shi</id>
     <content type="html"><![CDATA[<p>你好，世界！</p>
+
+<figure class='code'><figcaption><span>[helloworld.c] [] </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="cp">#include &lt;stdio.h&gt;</span>
+</span><span class='line'><span class="kt">int</span> <span class="n">main</span><span class="p">(){</span>
+</span><span class='line'>    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;hello, world!</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">);</span>
+</span><span class='line'>    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   
